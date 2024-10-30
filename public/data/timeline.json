@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "title": "Technical Executive",
+            "company": "FED",
+            "tasks": "Built a full functioning website for the society with other developers.",
+            "tags": ["React", "JavaScript", "SCSS", "MongoDB"],
+            "year": "2024"
+        },
+        {
+            "title": "Senior Technical Executive",
+            "company": "FED",
+            "tasks": "Made Multiple websites with juniors and helped them to improve and start their projects",
+            "tags": ["React", "Typescript", "Next", "MongoDB"],
+            "year": " 2024"
+        }
+    ]
+}

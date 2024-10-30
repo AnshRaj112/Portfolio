@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "FED KIIT",
+            "image": "/images/FEDWebsite.webp",
+            "link": "",
+            "tags": ["React", "Javascript", "SCSS", "MongoDB"],
+            "text": "A functioning website which can help a society to grow"
+        },
+        {
+            "title": "Kuddle",
+            "image": "/images/KuddleWebsite.webp",
+            "link": "",
+            "tags": ["React", "Tailwind CSS"],
+            "text": "A dating website which can help college students to find friends"
+        },
+        {
+            "title": "Login Website",
+            "image": "/images/LoginWebsite.webp",
+            "link": "",
+            "tags": ["React.js", "Typescript", "Tailwind CSS"],
+            "text": "A simple landing page of a login page with beautiful animation"
+        }
+    ]
+}
