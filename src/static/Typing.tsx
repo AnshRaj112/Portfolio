@@ -13,7 +13,9 @@ function Typing (){
         'Tailwind CSS',
         500,
         'React.js',
-        500
+        500,
+        'Javascript',
+        500,
       ]}
       wrapper="span"
       speed={10}
